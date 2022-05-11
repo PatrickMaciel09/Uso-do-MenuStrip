@@ -1,0 +1,13 @@
+H:\Visual Studio 2022\Projects\AppExemploMenu\bin\Debug\AppExemploMenu.exe.config
+H:\Visual Studio 2022\Projects\AppExemploMenu\bin\Debug\AppExemploMenu.exe
+H:\Visual Studio 2022\Projects\AppExemploMenu\bin\Debug\AppExemploMenu.pdb
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAmarelo.resources
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAzul.resources
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.FrmVerde.resources
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.exe
+H:\Visual Studio 2022\Projects\AppExemploMenu\obj\Debug\AppExemploMenu.pdb
